@@ -1,14 +1,14 @@
 theme = "awesome-identity"
-baseURL = "https://example.com"
-title = "Awesome Identity for Hugo"
+baseURL = "https://vanenshi.com"
+title = "Amir Hossein Shekari - Software Engineer"
 
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/portrait-default.png"
+  portrait = "/images/portrait-default.jpeg"
   firstname = "Amir Hossein"
   lastname = "Shekari"
-  title = "Software Engineer | Tech Lead"
+  title = "Software Engineer"
   bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
@@ -16,6 +16,11 @@ title = "Awesome Identity for Hugo"
   Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
   """
 
+[params.contacts]
+  email = "vanenshi@gmail.com"
+  github = "vanenshi"
+  linkedin = "vanenshi"
+  stackoverflow = "8801767"
 
 ## Footer Configurations
 [params.footer]
