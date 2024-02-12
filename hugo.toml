@@ -9,11 +9,11 @@ title = "Amir Hossein Shekari - Software Engineer"
   firstname = "Amir Hossein"
   lastname = "Shekari"
   title = "Software Engineer"
-  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
+  bio = """Current Software Engineer at start‐up company [Mozayedegar](https://mozayedegar.ir/).
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
-
-  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+  4+ years experience specializing in back‐end and font‐end development.
+  
+  A person who likes to customize the development environment and adores Linux and OSX. Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools if the need arises.
   """
 
 [params.contacts]
